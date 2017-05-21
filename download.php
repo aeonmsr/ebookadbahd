@@ -1,7 +1,7 @@
 <?php
 date_default_timezone_set('Asia/Kolkata');
  $Down=$_GET['Down'];
-$url='http://'.$_SERVER['HTTP_HOST'].'/beacon/pdf/'.$Down;
+$url='http://'http://www.shivlab.com/beacon/pdf/'.$Down;
 ?>
 
 <html>
